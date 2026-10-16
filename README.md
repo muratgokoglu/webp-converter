@@ -39,8 +39,8 @@
 3. Clone the repository and build the app:
 
    ```bash
-   git clone https://github.com/muratgokoglu/webp-converter-.git
-   cd webp-converter-
+   git clone https://github.com/muratgokoglu/webp-converter.git
+   cd webp-converter
    ./build.sh
    ```
 
