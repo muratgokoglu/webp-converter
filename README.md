@@ -67,6 +67,10 @@ The icon is generated from `logo.svg` by `make_icon.swift`. To change it, edit e
 
 The app is a single SwiftUI file (`WebPConverter.swift`) compiled with `swiftc`, so there is no Xcode project. Each image is decoded with ImageIO (which handles HEIC and orientation), written to a temporary PNG and encoded with `cwebp`.
 
+## License
+
+[PolyForm Noncommercial 1.0.0](LICENSE). You may use, modify and share this software for any noncommercial purpose, such as personal use, study, hobby projects, or use by charities and educational institutions. Commercial use is not permitted; if you'd like to use it commercially, please get in touch.
+
 ## Author
 
 [Murat Gökoğlu](https://muratgokoglu.com)
